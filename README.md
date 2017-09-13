@@ -59,9 +59,9 @@ It is assumed that an anaconda environment manager is installed on the local mac
 		conda env create -f=./requirements.txt -n voleon-env
 		activate voleon-env
 	```
-2. Pick a notebook.  
+2. Launch the notebook.  
 
-		jupiter notebook {NOTEBOOK}.ipynb
+		jupiter notebook EM_full.ipynb
 
 3. Enjoy!
 
